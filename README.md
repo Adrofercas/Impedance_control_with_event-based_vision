@@ -1,5 +1,5 @@
 # TFG_Adrian_Fernandez_Casas
-Recopilación de los códigos utilizados para el TFG Control en impedancia para la actuación rápida de robots con visión basada en eventos
+Recopilación de los códigos utilizados para el TFG Control en impedancia para la actuación rápida de robots con visión basada en eventos. Este proyecto ha sido llevado a cabo en el laboratorio ICB (Dijon, Francia), y trata de utilizar una tarea de aprendizaje por refuerzo profundo para la generación de ganancias necesarias para el control en impedancia de un brazo robot colaborativo (Franka Research 3). Al utilizar este tipo de generación de ganancias, obtenemos un comportamiento más adaptativo al movimiento. Además, tiende a minimizar la rigidez del sistema, provocando un movimiento más suave y un menor desgaste del robot. Por otro lado, se lleva a cabo una tarea de control visual para alcanzar un objeto, mediante una cámara RGB y una cámara de eventos.
 
 ## 📂 Estructura del Proyecto
 
